@@ -4,7 +4,7 @@ Strategic Analysis of Student Performance Factors Transforming raw educational d
 
 📌 Business Problem
 
-Educational institutions often struggle to identify which "at-risk" students to prioritize. This project analyzes 6,600+ student profiles to identify the most   critical behavioral and environmental variables that drive academic success, providing a data-driven roadmap for intervention.
+Educational institutions often struggle to identify which "at-risk" students to prioritize. This project analyzes 6,600+ student profiles to identify the most  critical behavioral and environmental variables that drive academic success, providing a data-driven roadmap for intervention.
 
 🔍 Exploratory Data Analysis (EDA)
 
