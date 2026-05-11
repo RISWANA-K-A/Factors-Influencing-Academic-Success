@@ -14,9 +14,9 @@ Key Insights Discovered:
 
 * The Attendance Threshold: Discovered a strong positive correlation ($r = 0.58$) between attendance and scores. Crucially, the data shows a performance "tipping point" at 75% attendance; below this, scores collapse regardless of study hours.
 
-* The Digital Ceiling: Multivariate analysis revealed that Internet Access acts as a "Resource Gatekeeper." Students without it are statistically capped from reaching the top 10% performance tier.
+* The Digital Ceiling: Multivariate analysis revealed that Internet Access acts as a "Resource Gatekeeper". Students without it are statistically capped from reaching the top 10% performance tier.
 
-* The Safety Net Effect: Parental Involvement serves as a "Score Floor." High involvement significantly reduces score variance, preventing total failure even in low-motivation students.
+* The Safety Net Effect: Parental Involvement serves as a "Score Floor". High involvement significantly reduces score variance, preventing total failure even in low-motivation students.
 
 🛠️ Technical Implementation
 
